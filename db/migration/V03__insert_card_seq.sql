@@ -1,0 +1,1 @@
+INSERT INTO `card_seq` (next_val) VALUES(1);
