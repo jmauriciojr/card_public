@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/wallet-service.git
+git clone https://github.com/jmauriciojr/card_public
 cd card
 ```
 
